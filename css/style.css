@@ -384,6 +384,10 @@ input:-webkit-autofill {
    position: relative;
 }
 
+.home-content .social {
+  padding-top: 10px;
+}
+
 .home-content h1{
    font-size: 75px;
    color: #fff;
