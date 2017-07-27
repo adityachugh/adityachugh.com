@@ -21,6 +21,10 @@
 
 /*------------------------ 1 Body and Core Css ------------------------*/
 
+.grecaptcha-badge {
+  display: none;
+}
+
 .logo h2 {
   font-size: 23px;
   font-weight: bold;

@@ -194,5 +194,9 @@ $('.responsive').on('click', function (e) {
    $(".requie").keyup(function() {
         $(this).removeClass('reqError');
     });
-   
+
+   function submitForm() {
+     document.getElementById("contact-form").submit();
+   }
+
 })(jQuery);
