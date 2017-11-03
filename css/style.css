@@ -374,7 +374,7 @@ input:-webkit-autofill {
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(https://source.unsplash.com/RvPDe41lYBA/1920x1080) bottom center fixed;
+    background:url(../images/background.jpg) bottom center fixed;
     background-size: cover;
     width: 100%;
     display: table;
