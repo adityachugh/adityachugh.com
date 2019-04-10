@@ -1,0 +1,12 @@
+[build]
+  publish = ""
+
+[[redirects]]
+  from = "/schedule"
+  to = "https://calendly.com/adityachugh"
+  status = 301
+
+[[redirects]]
+  from = "/calendar"
+  to = "https://calendly.com/adityachugh"
+  status = 301
